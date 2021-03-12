@@ -1,0 +1,7 @@
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\bin\Debug\Trending.exe.config
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\bin\Debug\Trending.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\bin\Debug\Trending.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\obj\Debug\Trending.csprojAssemblyReference.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\obj\Debug\Trending.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\Trending\obj\Debug\Trending.pdb

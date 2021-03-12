@@ -1,0 +1,7 @@
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\obj\Debug\AlarmDisplay.csprojAssemblyReference.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\obj\Debug\AlarmDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\AlarmDisplay\obj\Debug\AlarmDisplay.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Databases>
+  <Database name="AIs">
+    <AI Description="AI test RTU" Address="RTU" ScanTime="2" OnOffScan="true" LowLimit="0" HighLimit="1000" Units="sec" Driver="RTU">ai2</AI>
+    <AI Description="aitag" Address="S" ScanTime="2" OnOffScan="true" LowLimit="0" HighLimit="20" Units="mm" Driver="SD">aitag1</AI>
+    <AI Description="ai tag" Address="RTU" ScanTime="2" OnOffScan="false" LowLimit="-20" HighLimit="20" Units="sec" Driver="RTU">AITAG2</AI>
+  </Database>
+  <Database name="AOs">
+    <AO Description="AO tag" Address="adr1" LowLimit="0" HighLimit="100" InitValue="3.4">ao1</AO>
+  </Database>
+  <Database name="DIs">
+    <DI Description="DI tag" Address="C" ScanTime="2" OnOffScan="false" Driver="SD">di1</DI>
+  </Database>
+  <Database name="DOs">
+    <DO Description="digital" Address="123" InitValue="1">digital1</DO>
+    <DO Description="DO tag" Address="digital1" InitValue="1">do1</DO>
+  </Database>
+  <Database name="Alarms">
+    <Alarm Type="HIGH" Activated="false" CriticalValue="20" ActivationTime="" AnalogTagId="AITAG2" Priority="2" Unit="M">aialarm1</Alarm>
+    <Alarm Type="HIGH" Activated="true" CriticalValue="0" ActivationTime="2/18/2021 2:58:32 PM" AnalogTagId="AITAG2" Priority="2" Unit="SEC">AL2</Alarm>
+    <Alarm Type="HIGH" Activated="true" CriticalValue="9.5" ActivationTime="2/18/2021 2:52:30 PM" Priority="2" Unit="mm">alarm1</Alarm>
+  </Database>
+  <Database name="Users">
+    <User Password="EzfJa9NgSrqwGGLX+f2UtfP6/Rl9mRB6ylvV7tm7raQ=:xj6xkDsN5e4zEoeiHlj4HegWGBCv/PRpJWy15odJAZ4=" Role="ADMIN">admin</User>
+    <User Password="0Dqo8QodVmJR2y1BzYSZ6PCeF7PExMQfPJgj7aZ4Yrc=:b/fjBJEYLF8s+OTiMMPRu4fBaHcGLglVocE+H2gGhgM=" Role="REGULAR">nadja</User>
+  </Database>
+</Databases>

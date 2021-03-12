@@ -1,0 +1,7 @@
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\bin\Debug\RealTimeUnit.exe.config
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\bin\Debug\RealTimeUnit.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\bin\Debug\RealTimeUnit.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\obj\Debug\RealTimeUnit.csproj.CoreCompileInputs.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\obj\Debug\RealTimeUnit.exe
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\obj\Debug\RealTimeUnit.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\RealTimeUnit\obj\Debug\RealTimeUnit.csprojAssemblyReference.cache

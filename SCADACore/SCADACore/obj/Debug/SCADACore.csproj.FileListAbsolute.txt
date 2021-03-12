@@ -1,0 +1,14 @@
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\obj\Debug\SCADACore.csprojAssemblyReference.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\obj\Debug\SCADACore.csproj.CoreCompileInputs.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\SCADACore.dll.config
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\SCADACore.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\SCADACore.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\DriversLib.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\EntityFramework.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\EntityFramework.SqlServer.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\DriversLib.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\EntityFramework.xml
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\bin\EntityFramework.SqlServer.xml
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\obj\Debug\SCADACore.csproj.CopyComplete
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\obj\Debug\SCADACore.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\SCADACore\obj\Debug\SCADACore.pdb

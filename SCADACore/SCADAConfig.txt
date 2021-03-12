@@ -1,0 +1,8 @@
+<Databases>
+ 	<Database name="AIs"></Database>
+	<Database name="AOs"></Database>
+	<Database name="DIs"></Database>
+	<Database name="DOs"></Database>
+	<Database name="Alarms"></Database>
+	<Database name="Users"></Database>
+</Databases>

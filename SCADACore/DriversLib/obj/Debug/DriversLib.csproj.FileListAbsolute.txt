@@ -1,0 +1,6 @@
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\bin\Debug\DriversLib.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\bin\Debug\DriversLib.pdb
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\obj\Debug\DriversLib.csprojAssemblyReference.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\obj\Debug\DriversLib.csproj.CoreCompileInputs.cache
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\obj\Debug\DriversLib.dll
+C:\Users\Nadja\Documents\TRECA GODINA\SNUS\SW_10_2018_PROJEKAT\SCADACore\DriversLib\obj\Debug\DriversLib.pdb
